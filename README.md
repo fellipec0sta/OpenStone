@@ -1,0 +1,2 @@
+# OpenStone
+hearthstone open source
